@@ -1,0 +1,26 @@
+{
+  "name": "lenrn-nodejs",
+  "version": "1.0.0",
+  "description": "## Puppeteer My Crawler based on Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "aqpx": "node src/puppeteer/zsc_aqpx/ZSC_aqpx.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1345739670/Learn-NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1345739670/Learn-NodeJs/issues"
+  },
+  "homepage": "https://github.com/1345739670/Learn-NodeJs#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "puppeteer": "^1.9.0"
+  },
+  "devDependencies": {}
+}
